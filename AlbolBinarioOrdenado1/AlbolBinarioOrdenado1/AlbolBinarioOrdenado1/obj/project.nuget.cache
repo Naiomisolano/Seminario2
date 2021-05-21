@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "60pUm/9O5tTrlxi1ASm8z6h2y7+GqtCTCAjuKyNR3xawSgo+BvNo/ot5ALeQcuPdJmn7/NAu2YQYKAZcdhUYKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo_p\\source\\repos\\AlbolBinarioOrdenado1\\AlbolBinarioOrdenado1\\AlbolBinarioOrdenado1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo_p\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
